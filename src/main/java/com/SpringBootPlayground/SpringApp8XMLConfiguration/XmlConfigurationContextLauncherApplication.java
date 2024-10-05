@@ -8,6 +8,7 @@ import java.util.Arrays;
 /**
  * No Need of @Configuration & @ComponentScan
  * src/main/resources is directly in classpath, so just configuring the name is sufficient.
+ *
  **/
 
 public class XmlConfigurationContextLauncherApplication {
